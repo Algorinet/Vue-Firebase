@@ -1,6 +1,6 @@
 # firebaseApp
 
-> Project to test Wso2 EI
+> Project to test Firebase with axios in Vue
 
 ## Build Setup
 
